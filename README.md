@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm s3kler</h1>
+<h3 align="center">Hacking and cooking are two things I love to do. Passion and creativity are both required and both provide satisfaction when you find the right ingredients.</h3>
 
-<!--
-**s3kler/s3kler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cybersekler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cybersekler" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/szilamer-gyorgy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szilamer-gyorgy/" height="30" width="40" /></a>
+<a href="/https://www.cybersekler.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.cybersekler.com/" height="30" width="40" /></a>
+</p>
