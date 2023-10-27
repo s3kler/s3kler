@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm s3kler</h1>
+<h1 align="center">Hi 👋 I'm Szilamer aka the cyber sekler</h1>
 <h3 align="left">Hacking and cooking are two things I love to do. Passion and creativity are both required and both provide satisfaction when you find the right ingredients.</h3>
 
 <h3 align="left">Read my blog:</h3>
